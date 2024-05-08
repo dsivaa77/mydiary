@@ -1,0 +1,76 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0%;
+	padding: 0%;
+}
+.header{
+	width: 100%;
+	height: 40px;
+}
+.first{
+	width: 3.3%;
+	float: left;
+	padding-left: 10px;
+	padding-top: 15px;
+}
+.second{
+	width: 88%;
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 15px;
+}
+.bodypart{
+	width: 100%;
+	text-align: center;
+}
+.bodypart1{
+	width: 55%;
+	float: left;
+	border: 0px solid red;
+	padding-top: 6%;
+	padding-bottom: 5%;
+}
+.bodypart2{
+	width: 42%;
+	float: left;
+	border: 0px solid green;
+	padding-top: 5%;
+}
+.formcontrolls{
+	width: 200px;
+	height: 40px;
+}
+label{
+	font-size: 25px;
+}
+button{
+	width: 200px;
+	height: 40px;
+	background-color: skyblue;
+	color: black;
+	font-weight: bold;
+}
+.userhome{
+	padding-left: 12px;
+	padding-top: 12px;
+	text-align: left;
+	font-size: 30px;
+	font-weight: bold;
+}
+.heading{
+	font-size: 30px;
+	color: coral;
+}
+.addbtn{
+	background-color: steelblue;
+	color: white;
+	float: right;
+}
+table{
+	width: 99%;
+}
+td{
+	padding: 10px;
+}
