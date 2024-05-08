@@ -20,7 +20,7 @@
 			<img alt="" src="<c:url value="/images/diary.jfif"/>" width="200px" height="200px">
 		</div>
 		<div class="bodypart2">
-			<h1>LOGIN HERE</h1><br><br>
+			<h1>LOGINN HERE</h1><br><br>
 			<form action="./authenticate" method="post">
 				<label>username</label> <input type="text" name="username" class="formcontrolls"><br><br>
 				<label>password</label> <input type="password" name="password" class="formcontrolls"><br><br>
